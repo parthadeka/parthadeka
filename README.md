@@ -74,6 +74,4 @@ A PhD student at the <a href="http://www.hdu.edu.cn](https://www.iucaa.in/en/)">
 
 
 ------------------
-Credits: [Partha P Deka](https://github.com/VatanaChhorn](https://github.com/parthadeka)
-
 Last Edited on: 08/09/2024
