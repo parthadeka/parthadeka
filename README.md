@@ -9,14 +9,12 @@ A PhD student at the <a href="http://www.hdu.edu.cn](https://www.iucaa.in/en/)">
 <h3>:sunglasses: About me:</h3>
 <details>
   <summary>I'm currently working on a couple of things besides the college. </summary>
-  <ul>
     <br>
     <li>Taking a Swift Online Course, and looking forward to contribute to any iOS open source project.</li>
     <li>Learning editing photos by using Adobe Lighroom, as well as drawing some vectors in Adobe Illustrator.</li>
     <li>Looking forward to take a Web Development Course in future besides school curriculum.</li>
     <li>AInquiring more about UX/UI.</li>
     <li>🔜</li>
-  </ul>
 </details>
 
 ### 🌱 Challenges that I’m currently challenging myself:
