@@ -6,8 +6,7 @@
 
 A PhD student at the <a href="http://www.hdu.edu.cn](https://www.iucaa.in/en/)">Inter-University Centre for Astronomy and Astrophysics (IUCAA)</a>, India.
 
-<h3>:sunglasses: About me:</h3>
-<details>
+<h3>:sunglasses: Details:</h3>
     <br>
     <li>Taking a Swift Online Course, and looking forward to contribute to any iOS open source project.</li>
     <li>Learning editing photos by using Adobe Lighroom, as well as drawing some vectors in Adobe Illustrator.</li>
