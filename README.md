@@ -67,7 +67,7 @@ A PhD student at the <a href="http://www.hdu.edu.cn](https://www.iucaa.in/en/)">
       </p>
     </div>
 
-<h2>:handshake: Please don't hesitate to contact me: </h2>
+<h2>:handshake: How to Reach Me: </h2>
 <a href="mailto:parthadiucaa@gmail.com"><img align="center" alt="Taban Soleymani | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
 <a href = 'https://www.linkedin.com/in/eshita-banerjee-6821842b6](https://www.linkedin.com/in/partha-pratim-deka-53723128b/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://github.com/parthadeka'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
