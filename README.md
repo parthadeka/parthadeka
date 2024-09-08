@@ -41,7 +41,7 @@ Do ⭐ my repository if you find my project interesting, at least your star coul
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=VatanaChhorn" alt="VatanaChhorn" />
+<img src="https://komarev.com/ghpvc/?username=parthadeka" alt="parthadeka" />
 
 <details>
   <summary>✨ Github Stats</summary>
