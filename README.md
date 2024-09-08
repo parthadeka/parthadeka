@@ -71,6 +71,6 @@ Do ⭐ my repository if you find my project interesting, at least your star coul
 </details>
 
 -----
-Credits: [VatanaChhorn](https://github.com/VatanaChhorn)
+Credits: [Partha P Deka](https://github.com/VatanaChhorn](https://github.com/parthadeka)
 
-Last Edited on: 03/09/2020
+Last Edited on: 08/09/2024
