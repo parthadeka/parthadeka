@@ -2,7 +2,7 @@
 
 # Welcome 🙋🏻‍♂️
 
-### I'm Partha Pratim Deka from India :india:,
+### I'm Partha Pratim Deka from :india:,
 
 A PhD student at the <a href="http://www.hdu.edu.cn](https://www.iucaa.in/en/)">Inter-University Centre for Astronomy and Astrophysics (IUCAA)</a>, India.
 
