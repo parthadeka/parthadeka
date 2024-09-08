@@ -59,7 +59,6 @@ A PhD student at the <a href="http://www.hdu.edu.cn](https://www.iucaa.in/en/)">
           <img width="30px" src="https://scipy.org/images/logo.svg" />
           <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
         </kbd>
-        <!---
         <kbd>
           <kbd>Tools & IDEs</kbd>
           <br>
