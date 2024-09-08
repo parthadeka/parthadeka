@@ -66,7 +66,12 @@ A PhD student at the <a href="http://www.hdu.edu.cn](https://www.iucaa.in/en/)">
       </kbd>
       </p>
     </div>
------
+
+<h2>:handshake: reach me out </h2>
+<a href = 'https://www.linkedin.com/in/eshita-banerjee-6821842b6](https://www.linkedin.com/in/partha-pratim-deka-53723128b/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://github.com/parthadeka'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+
+
 Credits: [Partha P Deka](https://github.com/VatanaChhorn](https://github.com/parthadeka)
 
 Last Edited on: 08/09/2024
