@@ -4,7 +4,7 @@
 
 ### I'm Partha Pratim Deka from :india:.
 
-A PhD student at the <a href="http://www.hdu.edu.cn](https://www.iucaa.in/en/)">Inter-University Centre for Astronomy and Astrophysics (IUCAA)</a>, India.
+A PhD student at the <a href="http://www.hdu.edu.cn](https://www.iucaa.in/en/)">Inter-University Centre for Astronomy and Astrophysics (IUCAA)</a>, India. I work on investigating the amount, distribution and kinematics of cold atomic gas in radio-loud Active Galactic Nuclei (AGNs) to understand the overall process of galaxy evolution.
 
 <h3>:sunglasses: Details:</h3>
     <ul>
