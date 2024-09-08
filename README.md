@@ -2,16 +2,16 @@
 
 # Welcome 🙋🏻‍♂️
 
-### I'm Partha Pratim Deka,
+### I'm Partha Pratim Deka from India :india:,
 
 A PhD student at the <a href="http://www.hdu.edu.cn](https://www.iucaa.in/en/)">Inter-University Centre for Astronomy and Astrophysics (IUCAA)</a>, India.
 
 <h3>:sunglasses: Details:</h3>
     <ul>
-    <li>A full time radio astronomer working with the <a href="http://www.hdu.edu.cn](https://www.iucaa.in/en/](https://mals.iucaa.in)"> MeerKAT Abosrption Line Survey (MALS).</li>
-    <li>Learning editing photos by using Adobe Lighroom, as well as drawing some vectors in Adobe Illustrator.</li>
-    <li>Looking forward to take a Web Development Course in future besides school curriculum.</li>
-    <li>AInquiring more about UX/UI.</li>
+    <li>:satellite: A full time radio astronomer working with the <a href="http://www.hdu.edu.cn](https://www.iucaa.in/en/](https://mals.iucaa.in)"> MeerKAT Abosrption Line Survey (MALS).</li>
+    <li>:thinking: Interested in learning how distant galaxies form and evolve!</li>
+    <li>:badminton: Badminton: favourite pastime.</li>
+    <li>:yellow_heart: Love coding.</li>
     <li>🔜</li>
     </ul>
 
