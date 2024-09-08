@@ -2,9 +2,9 @@
 
 # Welcome 🙋🏻‍♂️
 
-### I'm Vatana Chhorn,
+### I'm Partha Pratim Deka,
 
-A sophomore at  <a href="http://www.hdu.edu.cn">Hangzhou Dianzi University</a>, China, pursuing bachelor’s degree in Software Engineering.
+A PhD student at  <a href="[http://www.hdu.edu.cn](https://www.iucaa.in/en/)">the Inter-University Centre for Astronomy and Astrophysics</a>, India.
 
 <h3>💼 Things that I'm currently working on:</h3>
 <details>
