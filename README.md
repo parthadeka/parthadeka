@@ -10,7 +10,7 @@ A PhD student at the <a href="http://www.hdu.edu.cn](https://www.iucaa.in/en/)">
     <ul>
     <li>:satellite: A full time radio astronomer working with the <a href="http://www.hdu.edu.cn](https://www.iucaa.in/en/](https://mals.iucaa.in)"> MeerKAT Abosrption Line Survey (MALS)</a>.</li>
     <li>:thinking: Interested in learning how distant galaxies form and evolve!</li>
-    <li>:page_with_curl: View my publications at <a href="https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FDeka%2C%20P%2FDeka%2C%20P%20%20P%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FDeka%2C%20P%2FDeka%2C%20P%20%20P%22)&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&p_=0&q=%20%20author%3A%22Deka%2C%20P.P.%22&sort=date%20desc%2C%20bibcode%20desc"> NASA ADS</a>. </li>
+    <li>:page_with_curl: View my publications at <a href="https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FDeka%2C%20P%2FDeka%2C%20P%20%20P%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FDeka%2C%20P%2FDeka%2C%20P%20%20P%22)&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&p_=0&q=%20%20author%3A%22Deka%2C%20P.P.%22&sort=date%20desc%2C%20bibcode%20desc"> NASA ADS</a>/<a href="https://scholar.google.co.in/citations?user=3BvQr9YAAAAJ&hl=en"> Google Scholar</a>. </li>
     <li>:badminton: Badminton: favourite pastime.</li>
     <li>:yellow_heart: Love coding.</li>
     <li>🔜</li>
