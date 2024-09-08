@@ -8,8 +8,9 @@ A PhD student at the <a href="http://www.hdu.edu.cn](https://www.iucaa.in/en/)">
 
 <h3>:sunglasses: Details:</h3>
     <ul>
-    <li>:satellite: A full time radio astronomer working with the <a href="http://www.hdu.edu.cn](https://www.iucaa.in/en/](https://mals.iucaa.in)"> MeerKAT Abosrption Line Survey (MALS).</li>
+    <li>:satellite: A full time radio astronomer working with the <a href="http://www.hdu.edu.cn](https://www.iucaa.in/en/](https://mals.iucaa.in)"> MeerKAT Abosrption Line Survey (MALS)</a>.</li>
     <li>:thinking: Interested in learning how distant galaxies form and evolve!</li>
+    <li> View my publications at <a href="https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=%20%20author%3A%22Deka%2C%20P.P.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0"> NASA ADS</a>. </li>
     <li>:badminton: Badminton: favourite pastime.</li>
     <li>:yellow_heart: Love coding.</li>
     <li>🔜</li>
