@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 🙋🏻‍♂️
 
-# Welcome 🙋🏻‍♂️
+# Welcome :pray:
 
 ### I'm Partha Pratim Deka from :india:.
 
