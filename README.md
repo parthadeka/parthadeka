@@ -7,13 +7,14 @@
 A PhD student at the <a href="http://www.hdu.edu.cn](https://www.iucaa.in/en/)">Inter-University Centre for Astronomy and Astrophysics (IUCAA)</a>, India.
 
 <h3>:sunglasses: Details:</h3>
+    <ul>
     <br>
     <li>Taking a Swift Online Course, and looking forward to contribute to any iOS open source project.</li>
     <li>Learning editing photos by using Adobe Lighroom, as well as drawing some vectors in Adobe Illustrator.</li>
     <li>Looking forward to take a Web Development Course in future besides school curriculum.</li>
     <li>AInquiring more about UX/UI.</li>
     <li>🔜</li>
-</details>
+    </ul>
 
 ### 🌱 Challenges that I’m currently challenging myself:
 <details>
