@@ -64,7 +64,6 @@ A PhD student at the <a href="http://www.hdu.edu.cn](https://www.iucaa.in/en/)">
           <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
           <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" />
       </kbd>
-        -->
       </p>
     </div>
 -----
